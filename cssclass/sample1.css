@@ -1,0 +1,17 @@
+/*a:link {
+  color: red;
+}
+a:hover {
+  color: tomato;
+}
+a:visited {
+  color: blue;
+}
+a:active {
+  color: black;
+}*/
+a:link {
+  color: pink;
+  font-weight: bold;
+  align-content: center;
+}
